@@ -14,9 +14,9 @@
                     About Me
                 </h3>
             </div>
-            <div style="min-height:30%;min-width: 600px;margin: 0 auto;padding-top: 0;text-align: center;">
+            <div style="min-height:30%;min-width: 450px;margin: 0 auto;padding-top: 0;text-align: center;">
                 <div class="case-div">
-                    <div style="width:700px;margin: 0 auto;padding-bottom: 40px;">
+                    <div style="max-width:700px;margin: 0 auto;padding-bottom: 40px;">
                         <img src="../Images/AboutMe/self.jpg" style="max-width: 280px;width:100%;height:auto;display:inline-block;vertical-align:top;float:left;padding-right: 15px">
                         <p class="photo-para" style="font-size: 18px;text-align: justify;">
                             I am currently a student at Bournemouth University studying Games Programming (Bsc). I first knew that I wanted to join the games industry when I was 16, making 3D models for a free to play game online. Studying at University opened my eyes to what I truly enjoy and love, software development and engineering. For me, It’s not just about the programming but about all processes of design and development.

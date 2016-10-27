@@ -18,7 +18,7 @@
             <div id='home-paragraph'>
             <div style="min-height:10%;min-width: 400px;margin: 0 auto;overflow:hidden;padding-top: 0;">
                 <div class="case-image-div">
-                    <a href='/Portfolio'><img src='Images/Portfolio/BoxBuilding/boxbuildingimage1.jpg' style='width:100%;height:auto;border:0;'></a>
+                    <a href='/Portfolio/boxbuilding.php'><img src='Images/Portfolio/BoxBuilding/boxbuildingimage1.jpg' style='width:100%;height:auto;border:0;'></a>
                 </div>
             </div>
             </div>
