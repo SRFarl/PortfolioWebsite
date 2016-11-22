@@ -1,9 +1,10 @@
 <?php include "../include.php" ?>
-
+<link rel='icon' type='image/jpg' href='../Images/favicon.jpg'>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title>Home</title>
+        <meta name="keywords" content="opengl, 3d, entity, system, component, git, github, programming, games, bournemouth, university, c++, graduate, portfolio">
+        <meta name="description" content="A OpenGL Engine project with an Entity system, 3D. On-going Development.">
+        <title>Stephen Farley Portfolio - OpenGL Engine</title>
         <link rel="stylesheet" type="text/css" href="../Styles/StyleSheet.css"></link>
     </head>
     <body>

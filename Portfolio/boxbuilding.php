@@ -1,9 +1,10 @@
 <?php include "../include.php" ?>
-
+<link rel='icon' type='image/jpg' href='../Images/favicon.jpg'>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title>Home</title>
+        <meta name="keywords" content="box, minecraft, ray, raycast, build, intersect, programming, games, bournemouth, university, c++, graduate, portfolio">
+        <meta name="description" content="A boxbuilding project made in OpenGL using my OpenGL Engine project.">
+        <title>Stephen Farley Portfolio - BoxBuilding</title>
         <link rel="stylesheet" type="text/css" href="../Styles/StyleSheet.css"></link>
     </head>
     <body>
@@ -28,7 +29,7 @@
                     </div>
                 </div>
                 <div style="max-width: 1100px;margin: 0 auto; padding-top: 20px;">
-                    <iframe width="600" height="315" src="https://www.youtube.com/embed/AiIbkQuzORI" style="display:inline-block;vertical-align:top;margin-right:6%;">
+                    <iframe width="600" height="315" src="https://www.youtube.com/embed/JoMTjd2REjA" style="display:inline-block;vertical-align:top;margin-right:6%;">
                     </iframe>
                     <div style="display:inline-block; width: 400px;">
                         <p class="photo-subhead" style="font-size: 18px;text-align: justify;">A project using an iteration of my OpenGL Engine.</p>

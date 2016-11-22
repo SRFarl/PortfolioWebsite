@@ -1,9 +1,10 @@
 <?php include "../include.php" ?>
-
+<link rel='icon' type='image/jpg' href='../Images/favicon.jpg'>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title>Home</title>
+        <meta name="keywords" content="contact, e-mail, email, info, programming, games, bournemouth, university, c++, graduate, portfolio">
+        <meta name="description" content="Get in touch with me.">
+        <title>Stephen Farley Portfolio - Contact</title>
         <link rel="stylesheet" type="text/css" href="../Styles/StyleSheet.css"></link>
     </head>
     <body>

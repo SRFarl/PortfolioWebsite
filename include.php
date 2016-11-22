@@ -38,7 +38,7 @@ $portfolioheader = "
                 <ul id='primary-menu' class='zilla-mobile-menu'  style='padding-top:10px;'>
                     <li><a href='../index.php'>Home</a></li>
                     <li><a href='../Portfolio/index.php'style='color:#352b28;'>Portfolio</a></li>
-                    <li><a href='../AboutMe/index.php'>AboutMe</a></li>
+                    <li><a href='../AboutMe/index.php'>About Me</a></li>
                     <li><a href='../Contact/index.php'>Contact</a></li>
                 </ul>
         </div>
@@ -56,7 +56,7 @@ $aboutmeheader = "
           e.style.display = 'block';
     }
 //-->
-</script>    
+</script>
 <header>
     <div class='nav-container' >
         <a href='../index.php'>
@@ -90,7 +90,7 @@ $contactheader = "
           e.style.display = 'block';
     }
 //-->
-</script>    
+</script>
 <header>
     <div class='nav-container' >
         <a href='../index.php'>

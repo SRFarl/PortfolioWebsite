@@ -1,9 +1,10 @@
 <?php include "../include.php" ?>
-
+<link rel='icon' type='image/jpg' href='../Images/favicon.jpg'>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title>Home</title>
+        <meta name="keywords" content="collision, soft, deform, deformable, 3d, opengl, programming, games, bournemouth, university, c++, graduate, portfolio">
+        <meta name="description" content="A collision demo made in OpenGL.">
+        <title>Stephen Farley Portfolio - Collision Demo</title>
         <link rel="stylesheet" type="text/css" href="../Styles/StyleSheet.css"></link>
     </head>
     <body>
@@ -28,12 +29,12 @@
                     </div>
                 </div>
                 <div style="max-width: 1100px;margin: 0 auto; padding-top: 20px;">
-                    <iframe width="600" height="315" src="https://www.youtube.com/embed/YaHH-6oeVIA" style="display:inline-block;vertical-align:top;margin-right:6%;">
+                    <iframe width="600" height="315" src="https://www.youtube.com/embed/t2WrEIeN6Pk" style="display:inline-block;vertical-align:top;margin-right:6%;">
                     </iframe>
                     <div style="display:inline-block; width: 400px;">
-                        <p class="photo-subhead" style="font-size: 18px;text-align: justify;">Produced for a "Programming for Graphics and Games" assignment in March 2015.</p>
+                        <p class="photo-subhead" style="font-size: 18px;text-align: justify;">Produced for a "Programming for Graphics and Games" assignment in my second year of university.</p>
                         <p class="photo-subhead" style="font-size: 18px;text-align: justify;">For the assignment I aimed to create something similar to a car crash simulation. The maths that I used for determining collision was simple point intersection (using trigonometry) with OBB boxes. I also used separating axis theorem to determine if OBB boxes were overlapping.</p>
-                        <p class="photo-subhead" style="font-size: 18px;text-align: justify;">Results are somewhat funky because I don’t recurse down the colliding points neighbours with distance in mind.</p>
+                        <p class="photo-subhead" style="font-size: 18px;text-align: justify;">Deformation results are inaccurate because I don’t recurse down the colliding points neighbours with distance in mind.</p>
                     </div>
                 </div>
             </div>

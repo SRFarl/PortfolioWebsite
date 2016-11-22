@@ -1,9 +1,10 @@
 <?php include "../include.php" ?>
-
+<link rel='icon' type='image/jpg' href='../Images/favicon.jpg'>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title>Home</title>
+        <meta name="keywords" content="contact, jobs, employ, info, interests, IBM, programming, games, bournemouth, university, c++, graduate, portfolio">
+        <meta name="description" content="Find out more about me. Looking for graduate roles 2017.">
+        <title>Stephen Farley Portfolio - About Me</title>
         <link rel="stylesheet" type="text/css" href="../Styles/StyleSheet.css"></link>
     </head>
     <body>
@@ -19,7 +20,7 @@
                     <div style="max-width:700px;margin: 0 auto;padding-bottom: 40px;">
                         <img src="../Images/AboutMe/self.jpg" style="max-width: 280px;width:100%;height:auto;display:inline-block;vertical-align:top;float:left;padding-right: 15px">
                         <p class="photo-para" style="font-size: 18px;text-align: justify;">
-                            I am currently a student at Bournemouth University studying Games Programming (Bsc). I first knew that I wanted to join the games industry when I was 16, making 3D models for a free to play game online. Studying at University opened my eyes to what I truly enjoy and love, software development and engineering. For me, It’s not just about the programming but about all processes of design and development.
+                            I am currently a student at Bournemouth University studying Games Programming (Bsc). I first knew that I wanted to join the games industry when I was 16, making 3D models for a free to play game online. Studying at University opened my eyes to what I truly enjoy and love, software development and engineering. My passion is to have a career in graphics and software programming.
                         </p>
                         
                         <p class="photo-para" style="font-size: 18px;text-align: justify;">
@@ -37,7 +38,7 @@
                     
                     <div style="padding-top:20px;width: 400px;margin: 0 auto;padding-bottom: 20px;">
                         <h3 class="photo-para" style="float:left;">Download my CV:</h3>
-                        <a href='../Images/Contact/CV.docx'><img src='../Images/Contact/cvicon.JPG' style='max-width:80px;height:auto;border:0;padding-bottom: 30px;'></a>
+                        <a href='../Images/Contact/CV.pdf' target='_blank'><img src='../Images/Contact/cvicon.JPG' style='max-width:80px;height:auto;border:0;padding-bottom: 30px;'></a>
                     </div>
                 </div>
             </div>

@@ -1,9 +1,10 @@
 <?php include "../include.php" ?>
-
+<link rel='icon' type='image/jpg' href='../Images/favicon.jpg'>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title>Home</title>
+        <meta name="keywords" content="ai, 2d, sprite, sdl, programming, games, bournemouth, university, c++, graduate, portfolio">
+        <meta name="description" content="A Seek and Run application programmed in C++, 2D.">
+        <title>Stephen Farley Portfolio - Seek & Run</title>
         <link rel="stylesheet" type="text/css" href="../Styles/StyleSheet.css"></link>
     </head>
     <body>
@@ -27,10 +28,10 @@
                     </div>
                 </div>
                 <div style="max-width: 1100px;margin: 0 auto; padding-top: 20px;">
-                    <iframe width="600" height="315" src="https://www.youtube.com/embed/x_44mOPkbSI" style="display:inline-block;vertical-align:top;margin-right:6%;">
+                    <iframe width="600" height="315" src="https://www.youtube.com/embed/dtrIHdlb2nc" style="display:inline-block;vertical-align:top;margin-right:6%;">
                     </iframe>
                     <div style="display:inline-block; width: 400px;">
-                        <p class="photo-subhead" style="font-size: 18px;text-align: justify;">Produced for a "AI Games" assignment in February 2015.</p>
+                        <p class="photo-subhead" style="font-size: 18px;text-align: justify;">Produced for a "AI Games" assignment in my second year of university.</p>
                         <p class="photo-subhead" style="font-size: 18px;text-align: justify;">This project uses vector mathematics to figure out the direction to run away and how close the two objects are.</p>
                         <p class="photo-subhead" style="font-size: 18px;text-align: justify;">The project uses sprite rendering in SDL to graphically show the mathematics in action.</p>
                     </div>

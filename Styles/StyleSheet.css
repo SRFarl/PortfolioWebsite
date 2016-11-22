@@ -235,6 +235,12 @@ ul.case-image-list li:hover{
 	line-height: 30px;
 }
 
+.page-title h3 
+{
+    margin-bottom: 0;
+    padding-bottom: 35px;
+}
+
 .photo-head{
     
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
