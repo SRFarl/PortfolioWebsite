@@ -199,7 +199,8 @@ ul.case-image-list li:hover{
     margin: 0 auto;
 }
 
-.case-image-div{
+.case-image-div
+{
     max-width: 1600px;
     padding-left: 1%;
     padding-right: 1%;
@@ -209,7 +210,6 @@ ul.case-image-list li:hover{
 
 #home-paragraph
 {
-    max-width:1600px;
     margin: 0 auto;
     padding-left: 10%;
     padding-right: 10%;
@@ -225,8 +225,8 @@ ul.case-image-list li:hover{
     margin: 0 auto;
     text-align: center;
     padding-top: 100px;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 3%;
+    padding-right: 3%;
     padding-bottom: 0;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 30px;
@@ -240,6 +240,9 @@ ul.case-image-list li:hover{
     margin-bottom: 0;
     padding-bottom: 35px;
 }
+
+
+
 
 .photo-head{
     
